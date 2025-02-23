@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="44" viewBox="0 0 48 44">
+  <defs>
+    <clipPath id="clip-Artboard_7">
+      <rect width="48" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_7" data-name="Artboard – 7" clip-path="url(#clip-Artboard_7)">
+    <g id="Group_17578" data-name="Group 17578">
+      <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="17" cy="16.5" rx="17" ry="16.5" transform="translate(7 6)" fill="#eaeffe"/>
+      <g id="Group_17552" data-name="Group 17552" transform="translate(18.63 16)">
+        <path id="Path_12923" data-name="Path 12923" d="M6.886.793A3.158,3.158,0,0,0,5.2,6.628a5.284,5.284,0,0,0-3.612,5.014v1.646a.379.379,0,0,0,.377.38H11.8a.379.379,0,0,0,.377-.38V11.641A5.284,5.284,0,0,0,8.568,6.628,3.158,3.158,0,0,0,6.886.793Zm0,.755a2.4,2.4,0,1,1-2.406,2.4,2.4,2.4,0,0,1,2.406-2.4Zm0,5.565a4.513,4.513,0,0,1,4.536,4.528V12.91H2.35V11.641A4.513,4.513,0,0,1,6.886,7.113ZM8.625,9.132a.379.379,0,0,0-.38.377v.735H7.51a.379.379,0,1,0,0,.757h.735v.735a.379.379,0,0,0,.757,0V11h.735a.379.379,0,1,0,0-.757H9V9.509a.379.379,0,0,0-.377-.377Z" transform="translate(-1.593 -0.793)" fill="#08152e" fill-rule="evenodd"/>
+      </g>
+      <ellipse id="Ellipse_21" data-name="Ellipse 21" cx="17" cy="16.5" rx="17" ry="16.5" transform="translate(7 6)" fill="#eaeffe"/>
+      <g id="Group_17563" data-name="Group 17563" transform="translate(18.63 16)">
+        <path id="Path_12923-2" data-name="Path 12923" d="M6.886.793A3.158,3.158,0,0,0,5.2,6.628a5.284,5.284,0,0,0-3.612,5.014v1.646a.379.379,0,0,0,.377.38H11.8a.379.379,0,0,0,.377-.38V11.641A5.284,5.284,0,0,0,8.568,6.628,3.158,3.158,0,0,0,6.886.793Zm0,.755a2.4,2.4,0,1,1-2.406,2.4,2.4,2.4,0,0,1,2.406-2.4Zm0,5.565a4.513,4.513,0,0,1,4.536,4.528V12.91H2.35V11.641A4.513,4.513,0,0,1,6.886,7.113ZM8.625,9.132a.379.379,0,0,0-.38.377v.735H7.51a.379.379,0,1,0,0,.757h.735v.735a.379.379,0,0,0,.757,0V11h.735a.379.379,0,1,0,0-.757H9V9.509a.379.379,0,0,0-.377-.377Z" transform="translate(-1.593 -0.793)" fill="#08152e" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
